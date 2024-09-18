@@ -12,11 +12,11 @@
       "url": "https://github.com/nix-community/home-manager/archive/2ab00f89dd3ecf8012f5090e6d7ca1a7ea30f594.tar.gz",
       "hash": "1x8gkh3j8a4gj6rin5hzsmnhgmg9xvqyrfxlb0vkw17zy07853nr"
     },
-    "nixpkgs": {
+    "nixos-unstable": {
       "type": "Channel",
-      "name": "nixpkgs-unstable",
-      "url": "https://releases.nixos.org/nixpkgs/nixpkgs-24.11pre682572.658e7223191d/nixexprs.tar.xz",
-      "hash": "05pxq7nhv78rb1gy7v73g962n4h6c81cybhzkg0j0h8hiki2s46c"
+      "name": "nixos-unstable",
+      "url": "https://releases.nixos.org/nixos/unstable/nixos-24.11pre681973.99dc8785f6a0/nixexprs.tar.xz",
+      "hash": "0560fnnxcmgajszk9vm4b54xi8ypgl1zbp9vb1ck7j9pqmc7fzni"
     }
   },
   "version": 3
